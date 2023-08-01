@@ -1,0 +1,24 @@
+:root{
+    --cor-de-fundo:#EBECEE;
+    --branco:#FFFFFF;
+    --laranja:#EB9800;
+    --azul-degradee:linear-gradiente(97,54deg,#002f52 35,40%,  #326589 165,37%);
+    --preto:#000000;
+
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+
+}
+.cabeçalho{
+    background-color: #002f52;
+}
+.cabeçalho_menu-hamburger{
+  width: 24px;
+  height: 24px;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-position: center;
+  display: inline-block;
+}
